@@ -2,6 +2,8 @@
 
 Welcome to **Bankist App** – a feature-rich banking application designed to provide users with an intuitive and seamless banking experience. This project was developed using HTML, CSS, and JavaScript, and it replicates many of the functionalities you would expect from a modern banking application.
 
+![Bankist Interface](Bankist.png)
+
 ## 🌟 Features
 
 - **Account Management**: Create and manage multiple user accounts.
@@ -39,6 +41,8 @@ Welcome to **Bankist App** – a feature-rich banking application designed to pr
 ## 📝 Project Overview
 
 Developing **Bankist App** was a challenging yet rewarding journey. The project involved implementing complex features like money transfers, loan processing, and secure account management, all while maintaining a smooth user experience. It’s a demonstration of how web technologies can be leveraged to create functional and interactive applications.
+
+![bankist flowchar](Bankist-flowchart.png)
 
 ## 🎮 Try the App
 
